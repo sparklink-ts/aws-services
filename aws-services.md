@@ -85,6 +85,105 @@ Youtube Video Link
                 https://www.youtube.com/playlist?list=PL9SCFf2XVh6iXJdg8RIgEnqxexmC28SoQ
 
 
+***AWS | Lambda | String | Lower Case | Concatenation | Java***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6hVp2wyoFZqXswabkmar1Wm
+
+AWS | Lambda | String | Lower Case | Concatenation | Java
+
+	https://youtu.be/S-4DS-Dev1A
+
+
+***AWS | Lambda | S3 | SNS | API Gateway | Using Python Handler***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6jOrKniEgiXsrnr_z0v97nm
+
+AWS | Lambda | S3 | SNS | API Gateway | Using Python Handler | Part 01
+
+	https://youtu.be/pu76GXce5VU
+
+AWS | Lambda | S3 | SNS | API Gateway | Using Python Handler | Part 02
+
+	https://youtu.be/5_vTQd0zuqg
+
+AWS | Lambda | S3 | SNS | API Gateway | Using Python Handler | Part 03
+
+	https://youtu.be/WbefmURWq0M
+
+AWS | Lambda | S3 | SNS | API Gateway | Using Python Handler | Part 04
+
+	https://youtu.be/w5Z3DKNjL5g
+
+AWS | Lambda | S3 | SNS | API Gateway | Using Python Handler | Part 05
+	
+	https://youtu.be/vD4ONaur9g8
+	
+	
+***AWS | Lambda | S3 | SNS | API Gateway | Using Java Handler***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6jDmH8Rqd2r5dZ7kodfMO0J
+	
+AWS | Lambda | S3 | SNS | API Gateway | Using Java Handler | Part 01
+
+	https://youtu.be/M0sli5CrG2s
+		
+AWS | Lambda | S3 | SNS | API Gateway | Using Java Handler | Part 02
+
+	https://youtu.be/zono2JgLWfA
+
+AWS | Lambda | S3 | SNS | API Gateway | Using Java Handler | Part 03
+
+	https://youtu.be/-ig3oh50jZM
+
+AWS | Lambda | S3 | SNS | API Gateway | Using Java Handler | Part 04
+
+	https://youtu.be/nQ0Sh641Mzs
+
+AWS | Lambda | S3 | SNS | API Gateway | Using Java Handler | Part 05
+
+	https://youtu.be/ONZYYTJ1hOQ
+
+
+***AWS | Lambda | IAM***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6gl3hZXltz0By_5RZbXBLj1
+
+AWS | Lambda | IAM | Part 01
+
+	https://youtu.be/RYRwtjzjBgQ
+
+AWS | Lambda | IAM | Part 02
+
+	https://youtu.be/7xBl40582ts
+
+AWS | Lambda | IAM | Part 03
+
+	https://youtu.be/u36fXeStbXg
+
+
+***AWS | Lambda | IAM | Employee Service App***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6hZT1J_FGWQAtgJPyzaAQVc
+
+AWS | Lambda | IAM | Employee Service App | Part 01
+
+	https://youtu.be/eWJdsW8ezFs
+
+AWS | Lambda | IAM | Employee Service App | Part 02
+
+	https://youtu.be/mp29UdZ4zks
+
+
 
 
 
@@ -368,103 +467,6 @@ AWS | Create Non Default VPC | Subnet | Route Table | Internet Gateway | Part 03
 	https://youtu.be/pT30kj7QTYs
 
 
-***AWS | Lambda | String | Lower Case | Concatenation | Java***
-
-*YouTube Video Links (All Videos)*
-
-	https://www.youtube.com/playlist?list=PL9SCFf2XVh6hVp2wyoFZqXswabkmar1Wm
-
-AWS | Lambda | String | Lower Case | Concatenation | Java
-
-	https://youtu.be/S-4DS-Dev1A
-
-
-***AWS | Lambda | S3 | SNS | API Gateway | Using Python Handler***
-
-*YouTube Video Links (All Videos)*
-
-	https://www.youtube.com/playlist?list=PL9SCFf2XVh6jOrKniEgiXsrnr_z0v97nm
-
-AWS | Lambda | S3 | SNS | API Gateway | Using Python Handler | Part 01
-
-	https://youtu.be/pu76GXce5VU
-
-AWS | Lambda | S3 | SNS | API Gateway | Using Python Handler | Part 02
-
-	https://youtu.be/5_vTQd0zuqg
-
-AWS | Lambda | S3 | SNS | API Gateway | Using Python Handler | Part 03
-
-	https://youtu.be/WbefmURWq0M
-
-AWS | Lambda | S3 | SNS | API Gateway | Using Python Handler | Part 04
-
-	https://youtu.be/w5Z3DKNjL5g
-
-AWS | Lambda | S3 | SNS | API Gateway | Using Python Handler | Part 05
-	
-	https://youtu.be/vD4ONaur9g8
-	
-	
-***AWS | Lambda | S3 | SNS | API Gateway | Using Java Handler***
-
-*YouTube Video Links (All Videos)*
-
-	https://www.youtube.com/playlist?list=PL9SCFf2XVh6jDmH8Rqd2r5dZ7kodfMO0J
-	
-AWS | Lambda | S3 | SNS | API Gateway | Using Java Handler | Part 01
-
-	https://youtu.be/M0sli5CrG2s
-		
-AWS | Lambda | S3 | SNS | API Gateway | Using Java Handler | Part 02
-
-	https://youtu.be/zono2JgLWfA
-
-AWS | Lambda | S3 | SNS | API Gateway | Using Java Handler | Part 03
-
-	https://youtu.be/-ig3oh50jZM
-
-AWS | Lambda | S3 | SNS | API Gateway | Using Java Handler | Part 04
-
-	https://youtu.be/nQ0Sh641Mzs
-
-AWS | Lambda | S3 | SNS | API Gateway | Using Java Handler | Part 05
-
-	https://youtu.be/ONZYYTJ1hOQ
-
-
-***AWS | Lambda | IAM***
-
-*YouTube Video Links (All Videos)*
-
-	https://www.youtube.com/playlist?list=PL9SCFf2XVh6gl3hZXltz0By_5RZbXBLj1
-
-AWS | Lambda | IAM | Part 01
-
-	https://youtu.be/RYRwtjzjBgQ
-
-AWS | Lambda | IAM | Part 02
-
-	https://youtu.be/7xBl40582ts
-
-AWS | Lambda | IAM | Part 03
-
-	https://youtu.be/u36fXeStbXg
-
-
-***AWS | Lambda | IAM | Employee Service App***
-
-*YouTube Video Links (All Videos)*
-
-	https://www.youtube.com/playlist?list=PL9SCFf2XVh6hZT1J_FGWQAtgJPyzaAQVc
-
-AWS | Lambda | IAM | Employee Service App | Part 01
-
-	https://youtu.be/eWJdsW8ezFs
-
-AWS | Lambda | IAM | Employee Service App | Part 02
-
-	https://youtu.be/mp29UdZ4zks
 
 
 ***-:::: EC2 ::::-***	
@@ -533,6 +535,9 @@ AWS | Creating | User | on Linux-Server
 	https://youtu.be/eTs6axwX9z8
 	
 
+
+
+
 ***-:::: AWS ::::-***
 	
 ***AWS | Sign-in | to AWS Account***
@@ -557,7 +562,10 @@ AWS | Account | Login | using MFA
 	https://youtu.be/QQnXVCinU9Y
 
 
+
+
 ***-:::: Elastic Beanstalk ::::-***	
+
 
 ***AWS | Elastic Beanstalk | Java | Spring Boot | on Linux Server***
 
