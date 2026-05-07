@@ -469,7 +469,7 @@ AWS | Create Non Default VPC | Subnet | Route Table | Internet Gateway | Part 03
 
 
 
-***-:::: EC2 ::::-***	
+***-:::: AWS EC2 ::::-***	
 
 ***AWS | EC2 | PuTTY | and | WinSCP | on Linux-Server***
 
@@ -564,7 +564,7 @@ AWS | Account | Login | using MFA
 
 
 
-***-:::: Elastic Beanstalk ::::-***	
+***-:::: AWS Elastic Beanstalk ::::-***	
 
 
 ***AWS | Elastic Beanstalk | Java | Spring Boot | on Linux Server***
