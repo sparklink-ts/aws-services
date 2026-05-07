@@ -368,4 +368,259 @@ AWS | Create Non Default VPC | Subnet | Route Table | Internet Gateway | Part 03
 	https://youtu.be/pT30kj7QTYs
 
 
+***AWS | Lambda | String | Lower Case | Concatenation | Java***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6hVp2wyoFZqXswabkmar1Wm
+
+AWS | Lambda | String | Lower Case | Concatenation | Java
+
+	https://youtu.be/S-4DS-Dev1A
+
+
+***AWS | Lambda | S3 | SNS | API Gateway | Using Python Handler***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6jOrKniEgiXsrnr_z0v97nm
+
+AWS | Lambda | S3 | SNS | API Gateway | Using Python Handler | Part 01
+
+	https://youtu.be/pu76GXce5VU
+
+AWS | Lambda | S3 | SNS | API Gateway | Using Python Handler | Part 02
+
+	https://youtu.be/5_vTQd0zuqg
+
+AWS | Lambda | S3 | SNS | API Gateway | Using Python Handler | Part 03
+
+	https://youtu.be/WbefmURWq0M
+
+AWS | Lambda | S3 | SNS | API Gateway | Using Python Handler | Part 04
+
+	https://youtu.be/w5Z3DKNjL5g
+
+AWS | Lambda | S3 | SNS | API Gateway | Using Python Handler | Part 05
+	
+	https://youtu.be/vD4ONaur9g8
+	
+	
+***AWS | Lambda | S3 | SNS | API Gateway | Using Java Handler***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6jDmH8Rqd2r5dZ7kodfMO0J
+	
+AWS | Lambda | S3 | SNS | API Gateway | Using Java Handler | Part 01
+
+	https://youtu.be/M0sli5CrG2s
+		
+AWS | Lambda | S3 | SNS | API Gateway | Using Java Handler | Part 02
+
+	https://youtu.be/zono2JgLWfA
+
+AWS | Lambda | S3 | SNS | API Gateway | Using Java Handler | Part 03
+
+	https://youtu.be/-ig3oh50jZM
+
+AWS | Lambda | S3 | SNS | API Gateway | Using Java Handler | Part 04
+
+	https://youtu.be/nQ0Sh641Mzs
+
+AWS | Lambda | S3 | SNS | API Gateway | Using Java Handler | Part 05
+
+	https://youtu.be/ONZYYTJ1hOQ
+
+
+***AWS | Lambda | IAM***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6gl3hZXltz0By_5RZbXBLj1
+
+AWS | Lambda | IAM | Part 01
+
+	https://youtu.be/RYRwtjzjBgQ
+
+AWS | Lambda | IAM | Part 02
+
+	https://youtu.be/7xBl40582ts
+
+AWS | Lambda | IAM | Part 03
+
+	https://youtu.be/u36fXeStbXg
+
+
+***AWS | Lambda | IAM | Employee Service App***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6hZT1J_FGWQAtgJPyzaAQVc
+
+AWS | Lambda | IAM | Employee Service App | Part 01
+
+	https://youtu.be/eWJdsW8ezFs
+
+AWS | Lambda | IAM | Employee Service App | Part 02
+
+	https://youtu.be/mp29UdZ4zks
+
+
+***-:::: EC2 ::::-***	
+
+***AWS | EC2 | PuTTY | and | WinSCP | on Linux-Server***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6jaa2Wv26QdvkkI3kqZ85_O
+	
+AWS | EC2 | PuTTY | and | WinSCP | on Linux-Server
+
+	https://youtu.be/zqSP8Cdn3QE
+	
+	
+***AWS | EC2 | Bootstrapping | on Linux Server***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6iBDr-2Gx8BJ80L-mzTRA29
+
+AWS | EC2 | Bootstrapping | on Linux Server
+
+	https://youtu.be/eIAgMnUHHuk
+	
+	
+***AWS | Deploy | Web Site | on Windows Server***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6ghSCV7r7iX_jlVsMVoWMgx
+
+AWS | Deploy | Web Site | on Windows Server | Part - 01
+
+	https://youtu.be/sYB01fmQwy8
+
+AWS | Deploy | Web Site | on Windows Server | Part - 02
+
+	https://youtu.be/wiltXtXjzvs
+	
+
+***AMI | AWS | EC2 | Linux Server***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6jwLFzhtQEmMiPtQvoNMMf_
+
+
+AMI | AWS | EC2 | Linux Server | Part 01		
+	
+	https://youtu.be/u1BM2ORGoyI	
+
+AMI | AWS | EC2 | Linux Server | Part 02
+
+	https://youtu.be/-MyaK1WNaDg
+
+
+***AWS | Creating | User | on Linux-Server***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6gRyTpzGSG98KoExRocJQjU
+
+AWS | Creating | User | on Linux-Server
+
+	https://youtu.be/eTs6axwX9z8
+	
+
+***-:::: AWS ::::-***
+	
+***AWS | Sign-in | to AWS Account***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6jvVLmL6r7B8h0aAAMeMtfm
+
+AWS | Sign-in | to AWS Account
+
+	https://youtu.be/HELosZmVGJc
+
+	
+***AWS | Account | Login | using MFA***
+
+*YouTube Video Links (All Videos)*
+	
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6h6GzvCYCqlHs0lQUMFDjLs
+
+AWS | Account | Login | using MFA
+	
+	https://youtu.be/QQnXVCinU9Y
+
+
+***-:::: Elastic Beanstalk ::::-***	
+
+***AWS | Elastic Beanstalk | Java | Spring Boot | on Linux Server***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6gu018HvxZK8SCjAopL_D30
+
+AWS | Elastic Beanstalk | Java | Spring Boot | on Linux Server | Part 01
+
+	https://youtu.be/gCZ0gEcx7Z8
+
+AWS | Elastic Beanstalk | Java | Spring Boot | on Linux Server | Part 02
+
+	https://youtu.be/IodGwazLw40
+
+AWS | Elastic Beanstalk | Java | Spring Boot | on Linux Server | Part 03
+
+	https://youtu.be/uRqt55VWs2k
+
+
+***AWS | Elastic Beanstalk | Code Pipeline | SNS | PHP | on Linux Server***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6gViKYuVttjZFp6MGeVEN0U
+
+AWS | Elastic Beanstalk | Code Pipeline | SNS | PHP | on Linux Server | Part 01
+
+	https://youtu.be/KcZ1wss4zk4
+
+AWS | Elastic Beanstalk | Code Pipeline | SNS | PHP | on Linux Server | Part 02
+
+	https://youtu.be/Z-G349wZblo
+
+AWS | Elastic Beanstalk | Code Pipeline | SNS | PHP | on Linux Server | Part 03
+
+	https://youtu.be/cMlOx4qhR_M
+
+AWS | Elastic Beanstalk | Code Pipeline | SNS | PHP | on Linux Server | Part 04
+
+	https://youtu.be/270rbtrnrjI
+
+AWS | Elastic Beanstalk | Code Pipeline | SNS | PHP | on Linux Server | Part 05
+
+	https://youtu.be/Yfo1vjQsTRM
+
+AWS | Elastic Beanstalk | Code Pipeline | SNS | PHP | on Linux Server | Part 06
+
+	https://youtu.be/4YPlJ2Suph0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
