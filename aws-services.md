@@ -662,6 +662,91 @@ AWS | EC2 | Java | SB | Microservices | Docker | IAM | ECR | EKS | Linux Server 
 
 
 
+***-:::: AWS JSBM ::::-***	
+
+***AWS | Deploy | Spring Boot Application | on EC2 | Linux Server***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6hQOqRbisYagDbAJI6yUP4H
+
+
+AWS | Deploy | Spring Boot Application | on EC2 | Linux Server | Part 01
+
+	https://youtu.be/kr1fbHoMzOA
+
+
+AWS | Deploy | Spring Boot Application | on EC2 | Linux Server | Part 02
+
+	https://youtu.be/bNKN-qZ_BMA
+	
+
+
+
+***AWS | User Data | Bootstrapping | Java | Spring Boot | Microservices | on Linux Server***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6iqcLtotXrdUCV1KggPWeI5
+
+
+
+AWS | User Data | Bootstrapping | Java | Spring Boot | Microservices | on Linux Server
+
+	https://youtu.be/elsemHqDsyw
+
+
+
+
+***AWS | EC2 | Java Spring Boot Application | using Docker on Local System | on Linux Server***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6iMQpeTHeNB_S_DmzuxUjZt
+
+
+AWS | EC2 | Java Spring Boot Application | using Docker on Local System | on Linux Server | Part 01
+
+	https://youtu.be/-9NaybSg57U
+
+
+AWS | EC2 | Java Spring Boot Application | using Docker on Local System | on Linux Server | Part 02
+
+	https://youtu.be/fa9BJxg7wxo
+
+
+
+***AWS | EC2 | Java Spring Boot | Docker Build, Push, Pull and Run | on Linux Server***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6g8ognjpXh70IDKpMuvc2RP
+
+
+
+AWS | EC2 | Java Spring Boot | Docker Build, Push, Pull and Run | on Linux Server
+
+	https://youtu.be/gVQk6g03TH0
+
+
+
+***AWS | ALB | Blue Green | Deployment | Java Spring Boot Microservices | on Linux Server***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6iaCQVo4MgPU3lmCsRyRuLB
+
+
+AWS | ALB | Blue Green | Deployment | Java Spring Boot Microservices | on Linux Server | Part - 01
+
+	https://youtu.be/WoKsyA6Zwko
+
+
+AWS | ALB | Blue Green | Deployment | Java Spring Boot Microservices | on Linux Server | Part - 02
+
+	https://youtu.be/dzB92xOSEo0
+
+
 
 
 
