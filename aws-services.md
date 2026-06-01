@@ -618,6 +618,49 @@ AWS | Elastic Beanstalk | Code Pipeline | SNS | PHP | on Linux Server | Part 06
 
 
 
+***-:::: AWS EKS ::::-***	
+
+
+***AWS | EC2 | Java | SB | Microservices | Docker | IAM | ECR | EKS | Linux Server***
+
+*YouTube Video Links (All Videos)*
+
+	https://www.youtube.com/playlist?list=PL9SCFf2XVh6gQXZNYpIRw7gbNGxDkGskF
+	
+
+AWS | EC2 | Java | SB | Microservices | Docker | IAM | ECR | EKS | Linux Server | Part 01
+
+	https://youtu.be/_tV4pE5FTis
+	
+AWS | EC2 | Java | SB | Microservices | Docker | IAM | ECR | EKS | Linux Server | Part 02
+
+	https://youtu.be/KDw19Gr5zBw
+
+AWS | EC2 | Java | SB | Microservices | Docker | IAM | ECR | EKS | Linux Server | Part 03
+
+	https://youtu.be/rwBXe-QODzg
+
+AWS | EC2 | Java | SB | Microservices | Docker | IAM | ECR | EKS | Linux Server | Part 04
+
+	https://youtu.be/q7APBmJvpW4
+
+AWS | EC2 | Java | SB | Microservices | Docker | IAM | ECR | EKS | Linux Server | Part 05
+
+	https://youtu.be/9gIH4X0xF8g
+
+AWS | EC2 | Java | SB | Microservices | Docker | IAM | ECR | EKS | Linux Server | Part 06
+
+	https://youtu.be/406XRdpQy_0
+
+AWS | EC2 | Java | SB | Microservices | Docker | IAM | ECR | EKS | Linux Server | Part 07
+
+	https://youtu.be/VpZqRqp8nqo
+
+AWS | EC2 | Java | SB | Microservices | Docker | IAM | ECR | EKS | Linux Server | Part 08
+
+	https://youtu.be/d2eAu7l4MyU
+
+
 
 
 
